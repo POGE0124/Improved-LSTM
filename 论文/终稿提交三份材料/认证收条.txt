@@ -1,0 +1,21 @@
+Dear Po Hu,
+
+Congratulations! The following PDF has passed the PDF Check:
+
+Filename: PID5261577.pdf
+Title: RUL Prognostics Method Based on Real Time Updating of LSTM
+Parameters
+Paper ID: 5261609
+Creation Date: 11 March 2018 06:08 -0800 GMT
+
+The approved file is attached to this message, and is labeled within its document properties as being "Certified by IEEE PDF eXpress", with an exact date and time stamp. The file attached to this message is the file that you should submit to your conference's final paper collection site.
+
+Please remember that ANY changes made to your PDF at this point could impact Xplore compatibility.  PDF eXpress has examined and passed only the file version submitted to the site. This email serves as the official confirmation.
+
+Follow your conference guidelines for submitting your final paper to the conference. The deadline is 10 April 2018.
+
+A Reminder: PDF eXpress is NOT the final collection site.
+
+Thank you for using PDF eXpress!
+
+For guidance in creating Xplore-compliant PDFs, email mailto:PDFsupport@ieee.org
